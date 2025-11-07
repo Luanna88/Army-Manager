@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="org.mockito.Mockito">
+    <output-path>$PROJECT_DIR$/out/artifacts/org_mockito_Mockito</output-path>
+    <root id="root" />
+  </artifact>
+</component>
